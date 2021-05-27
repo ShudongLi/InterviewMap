@@ -794,5 +794,9 @@
         "label": "reset"
       }
     ]
+  },
+  {
+    "id": 10,
+    "label": "vue"
   }
 ]
